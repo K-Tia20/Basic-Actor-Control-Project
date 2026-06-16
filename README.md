@@ -56,3 +56,9 @@
 2. **Sweep 충돌 처리**: 물리(`Simulate Physics`)를 끈 상태에서 벽을 뚫지 않도록 `AddActorLocalOffset`의 `bSweep` 설정을 활성화했습니다.
 
 ---
+
+
+https://github.com/user-attachments/assets/e785c9e7-e146-42d9-bf17-ef4d20815bd4
+
+
+---
